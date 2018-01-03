@@ -2,7 +2,7 @@
 
 Selected Projects and Experiments
 
-All the live links work in **Chrome**. All of them except LaserWeb4 work in **Firefox**.
+All the live links work in **Chrome**. All of them except LaserWeb4 also work in **Firefox**.
 
 | Live | Source | Description | Technologies |
 | --- | --- | --- | --- |
