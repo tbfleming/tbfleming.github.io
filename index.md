@@ -2,6 +2,8 @@
 
 Selected Projects and Experiments
 
+All the live links work in **Chrome**. All of them except LaserWeb4 work in **Firefox**.
+
 | Live | Source | Description | Technologies |
 | --- | --- | --- | --- |
 | [Clang In Browser](https://tbfleming.github.io/cib/) | [cib](https://github.com/tbfleming/cib) | Clang runs in the browser, generating wasm which also runs in the browser. | llvm, emscripten, custom wasm linker
